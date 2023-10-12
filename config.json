@@ -1,0 +1,28 @@
+{
+  "symbol": "BTC/USDT",
+  "exchanges": [
+    {
+      "name": "binance",
+      "apiKey": "account_api-key",
+      "secret": "account_secret_key"
+    },
+    {
+      "name": "kraken",
+      "apiKey": "account_api-key",
+      "secret": "account_secret_key"
+    },
+    {
+      "name": "bitget",
+      "apiKey": "account_api-key",
+      "secret": "account_secret_key"
+    },
+    {
+      "name": "bittrex",
+      "apiKey": "account_api-key",
+      "secret": "account_secret_key"
+    }
+  ],
+  "usd_amount": 100,
+  "usd_price_diff": 5,
+  "pause": 6
+}
